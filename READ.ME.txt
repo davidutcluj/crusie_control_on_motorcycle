@@ -1,0 +1,26 @@
+Cruise Control for Motorbikes
+This project provides a Cruise Control System for motorbikes, designed to offer a smooth and safe riding experience by maintaining a constant speed without the rider needing to keep throttle control manually. This can reduce fatigue on long rides and contribute to fuel efficiency.
+
+Key Features
+Speed Stability: Automatically maintains the bike's speed on flat terrain, uphill, and downhill.
+Easy Activation/Deactivation: Quick, on-demand activation and deactivation to ensure safety and ease of use.
+Adjustable Set Speed: Allows the rider to set a preferred speed.
+Brake/Clutch Override: Automatically disengages when brakes or clutch are applied for safety.
+Fuel Efficiency: Helps maintain an optimal speed, improving fuel efficiency on long rides.
+How It Works
+The cruise control system uses sensors to monitor the bike's speed and throttle position. When engaged, the system controls the throttle to keep the bike at the set speed, adjusting for variations in road incline. This functionality allows the rider to relax their hand from the throttle, reducing fatigue, especially on highways or long stretches.
+
+Installation
+Download the Repository: Clone or download the repository to access the source code and installation guides.
+Hardware Requirements: A list of compatible hardware components is provided in the docs folder.
+Installation Guide: Step-by-step setup instructions can be found in INSTALL.md.
+Safety Considerations
+This cruise control system should only be used in safe, controlled environments, such as highways or open roads.
+Always disengage cruise control when navigating traffic, urban areas, or complex road conditions.
+Ensure all safety overrides (brake/clutch disengagement) are functional before each ride.
+Contribution
+We welcome contributions! Please review our CONTRIBUTING.md file for guidelines on how to get involved.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
